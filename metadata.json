@@ -1,0 +1,6 @@
+{
+  "name": "PostPilot - Automatisation Marketing Facebook & Mèmes Viraux",
+  "description": "Assistant autonome d'automatisation marketing pour Facebook. Analyse votre site web, génère des mèmes et publications à fort engagement pour attirer des clients vers votre site.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
